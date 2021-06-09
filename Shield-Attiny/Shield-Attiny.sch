@@ -54,10 +54,8 @@ Text GLabel 9000 2950 0    50   Input ~ 0
 D12
 Text GLabel 9000 2850 0    50   Input ~ 0
 D11
-Text GLabel 9000 2750 0    50   Input ~ 0
+Text GLabel 10350 3150 2    50   Input ~ 0
 D10
-Wire Wire Line
-	9000 2750 9200 2750
 Text GLabel 9000 2650 0    50   Input ~ 0
 D9
 Wire Wire Line
@@ -283,5 +281,7 @@ NoConn ~ 10200 2650
 NoConn ~ 10200 2750
 NoConn ~ 10200 2850
 NoConn ~ 10200 3050
-NoConn ~ 10200 3150
+Wire Wire Line
+	10350 3150 10200 3150
+NoConn ~ 9200 2750
 $EndSCHEMATC
