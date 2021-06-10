@@ -1,5 +1,4 @@
 # Shield Attiny85
 Kicad project -> Arduino shield for ATtiny85-20PU
 
-![shield_pcb_3d](https://user-images.githubusercontent.com/23146269/121519626-4f89b880-c9c8-11eb-8d8d-0cd6e0bff961.png)
-![shield_pcb_3d_2](https://user-images.githubusercontent.com/23146269/121520166-ff5f2600-c9c8-11eb-8aa4-33d90eb75831.png)
+![shield_pcb_3d](https://user-images.githubusercontent.com/23146269/121524740-fde42c80-c9cd-11eb-9ed3-6eb083859c60.png)
